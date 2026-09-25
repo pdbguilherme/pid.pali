@@ -1,7 +1,6 @@
-# Identificadores persistentes · PALI/UNESPAR
+# Identificadores persistentes · PRPPG/UNESPAR
 
-Guia interativo para docentes e discentes do Programa de Pós-Graduação em
-Ambientes Litorâneos e Insulares (PALI) da UNESPAR sobre os identificadores
+Guia interativo para docentes e discentes dos Programa de Pós-Graduação da UNESPAR sobre os identificadores
 persistentes que devem ser criados, mantidos e informados à CAPES.
 
 ## O que o guia oferece
@@ -19,11 +18,7 @@ persistentes que devem ser criados, mantidos e informados à CAPES.
 Os dados digitados na página ficam salvos apenas no navegador de quem os
 preencheu. Nada é enviado ao programa nem a terceiros.
 
-## Como atualizar
-
-Envie um novo arquivo `index.html` pelo botão *Add file › Upload files*.
-O site é atualizado automaticamente em cerca de 1 minuto.
 
 ## Contato
 
-Coordenação do PALI: mestrado.pali@unespar.edu.br
+Responsável: pablo.borges@unespar.edu.br
